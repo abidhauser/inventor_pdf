@@ -1,8 +1,0 @@
-run_started_at,input_pdf,page,status,reason,part_number,confidence,sources,alternatives,output_path,message
-2026-04-20T15:20:34,input.pdf,1,not_imported,already_exists,CHS8600RSF,0.98,deinterleaved_label;page_text,3HS8600RSFM;0HWG01020;CHS8600,output_pdfs\CHS8600RSF.pdf,Skip page 1: already exists output_pdfs\CHS8600RSF.pdf
-2026-04-20T15:20:34,input.pdf,2,not_imported,already_exists,1HS01357M,0.98,first_after_label;page_text,1LPC02959M;CHS8600RSF;1HS01363M,output_pdfs\1HS01357M.pdf,Skip page 2: already exists output_pdfs\1HS01357M.pdf
-2026-04-20T15:20:34,input.pdf,3,not_imported,already_exists,1HS01354M,0.98,deinterleaved_label,CHS8600RSF;CHS8600,output_pdfs\1HS01354M.pdf,Skip page 3: already exists output_pdfs\1HS01354M.pdf
-2026-04-20T15:20:34,input.pdf,4,not_imported,already_exists,1HS01355M,0.98,deinterleaved_label,CHS8600RSF;CHS8600,output_pdfs\1HS01355M.pdf,Skip page 4: already exists output_pdfs\1HS01355M.pdf
-2026-04-20T15:20:34,input.pdf,5,not_imported,already_exists,1HS01531M,0.98,deinterleaved_label,CHS8600RSF;CHS8600,output_pdfs\1HS01531M.pdf,Skip page 5: already exists output_pdfs\1HS01531M.pdf
-2026-04-20T15:20:34,input.pdf,6,not_imported,already_exists,1HS01532M,0.98,deinterleaved_label,CHS8600RSF;CHS8600,output_pdfs\1HS01532M.pdf,Skip page 6: already exists output_pdfs\1HS01532M.pdf
-2026-04-20T15:20:34,input.pdf,7,not_imported,already_exists,1HS01353M,0.98,deinterleaved_label,CHS8600RSF;CHS8600,output_pdfs\1HS01353M.pdf,Skip page 7: already exists output_pdfs\1HS01353M.pdf
