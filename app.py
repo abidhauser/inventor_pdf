@@ -166,6 +166,7 @@ class PdfSplitterApp:
             f"Already Exists in Folder: {result['already_exists_count']}",
             f"No Part Number: {result['no_part_number_count']}",
             f"Purchasing Part Skips (no folder): {result['purchasing_folder_missing_count']}",
+            f"Manual Review Required: {result.get('manual_review_count', 0)}",
             "",
             "Details:",
         ]
